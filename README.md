@@ -24,7 +24,9 @@ Tenho experiência prática como projetista de instalações elétricas prediais
 
 ### Estatísticas do GitHub
 
-[![Linguagens exploradas](https://github-readme-activity-graph.vercel.app/graph?username=erikoding&theme=tokyo-night&hide_border=true)](https://github.com/erikoding)
+[![Linguagens Exloradas](https://github-readme-stats-sigma-five.vercel.app/api?username=erikoding&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/erikoding)
+
+[![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=erikoding&theme=tokyo-night&hide_border=true)](https://github.com/erikoding)
 
 [![Streak do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=erikoding&theme=tokyonight&hide_border=true)](https://github.com/erikoding)
 
