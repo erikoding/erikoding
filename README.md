@@ -1,6 +1,4 @@
-# Eriko Luiz Prates Ferreira Silva
-
-Sou estudante de Engenharia Elétrica no IFSC e Técnico em Mecatrônica pela FMM. Profissionalmente, prezo pelo aprendizado cinestésico. Mais do que uma ocupação, aprecio aprender para evoluir cada vez mais como profissional.
+# Eriko Luiz Prates
 
 Tenho experiência prática como projetista de instalações elétricas prediais, com foco em compatibilizações multidisciplinares. Além disso, atuo com trabalhos autônomos como programador no ramo de navegação robótica e API do Revit.
 
