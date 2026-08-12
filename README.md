@@ -1,39 +1,37 @@
-# Olá, eu sou o Eriko Luiz Prates! 👋
+# Eriko Luiz Prates Ferreira Silva[cite: 1]
 
-Um desenvolvedor apaixonado por tecnologia, focado em criar soluções criativas e aprender coisas novas todos os dias. 
+Sou estudante de Engenharia Elétrica no IFSC e Técnico em Mecatrônica pela FMM[cite: 1]. Profissionalmente, prezo pelo aprendizado cinestésico[cite: 1]. Mais do que uma ocupação, aprecio aprender para evoluir cada vez mais como profissional[cite: 1].
 
-### 👨‍💻 Um pouco sobre mim
-- 🎓 Estudando **[Sua área/curso, ex: Análise e Desenvolvimento de Sistemas]**
-- 🚀 Atualmente aprimorando minhas habilidades em **HTML, CSS e JavaScript**
-- 💡 Tenho muito interesse em **[Front-end / Back-end / Design / etc.]**
-- 🌐 Dê uma olhada no meu portfólio: [erikoding.github.io](https://erikoding.github.io)
-- 📫 Como me encontrar: **[Seu email, ex: eriko@email.com]**
+Tenho experiência prática como projetista de instalações elétricas prediais, com foco em compatibilizações multidisciplinares[cite: 1]. Além disso, atuo com trabalhos autônomos como programador no ramo de navegação robótica e API do Revit[cite: 1].
 
----
+### Sobre Mim
+- Formação técnica em Mecânica Automotiva, Manutenção de Computadores e Desenvolvimento Web[cite: 1].
+- Estudante de Engenharia Elétrica (IFSC) e Técnico em Mecatrônica (FMM)[cite: 1].
+- Conhecimentos intermediários em programação e desenvolvimento web[cite: 1].
+- Conhecimentos intermediários com sistemas embarcados e automação industrial[cite: 1].
 
-### 🛠️ Tecnologias e Ferramentas
+### Conhecimentos e Tecnologias
 
-<div style="display: inline_block"><br>
-  <!-- Você pode adicionar ou remover essas badges depois -->
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+**Desenvolvimento e Programação:**
+- Linguagens: C, C#, Python, PHP[cite: 1]
+- Web: HTML, CSS, JavaScript[cite: 1]
 
-<br>
+**Sistemas Embarcados e Automação:**
+- Hardware: Arduino, ESP32[cite: 1]
+- Automação Industrial: CLP, CodeSys, Click02[cite: 1]
 
-### 📊 Minhas Estatísticas no GitHub
+**Engenharia e Diagramação:**
+- Elétrica e Eletrônica: Revit, AutoCAD, Proteus, CADe SIMU[cite: 1]
+- Mecânica: Solid Edge[cite: 1]
 
-<div align="center">
-  <!-- Estes cards vão atualizar sozinhos baseados no seu usuário 'erikoding' -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikoding&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=erikoding&theme=tokyonight&hide_border=true" />
-</div>
+### Estatísticas do GitHub
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=erikoding&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/erikoding)
 
----
+[![Streak do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=erikoding&theme=tokyonight&hide_border=true)](https://github.com/erikoding)
 
-### 🤝 Vamos nos conectar?
+### Contato e Redes Sociais
+E-mail: prateserikol@gmail.com[cite: 1]
 
-<a href="https://linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/SEU-INSTAGRAM-AQUI" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eriko-luiz-prates-81920b353/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eriko.lp/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eriko.luiz.prates)
