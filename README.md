@@ -23,7 +23,8 @@ Tenho experiência prática como projetista de instalações elétricas prediais
 - Mecânica: Solid Edge
 
 ### Estatísticas do GitHub
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=erikoding&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/erikoding)
+
+[![Linguagens exploradas](https://github-readme-stats.vercel.app/api/top-langs/?username=erikoding&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/erikoding)
 
 [![Streak do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=erikoding&theme=tokyonight&hide_border=true)](https://github.com/erikoding)
 
