@@ -24,7 +24,30 @@ Tenho experiência prática como projetista de instalações elétricas prediais
 
 ### Estatísticas do GitHub
 
-[![Linguagens Exloradas](https://github-readme-stats-sigma-five.vercel.app/api?username=erikoding&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/erikoding)
+<br>
+
+### Exploração de Linguagens
+
+**C#** (35%)
+█████████░░░░░░░░░░░░░░░░
+
+**Python** (25%)
+██████░░░░░░░░░░░░░░░░░░░
+
+**HTML / CSS** (15%)
+████░░░░░░░░░░░░░░░░░░░░░
+
+**JavaScript** (12%)
+███░░░░░░░░░░░░░░░░░░░░░░
+
+**C++** (7%)
+██░░░░░░░░░░░░░░░░░░░░░░░
+
+**Java** (5%)
+█░░░░░░░░░░░░░░░░░░░░░░░░
+
+**Inno Setup** (1%)
+▏░░░░░░░░░░░░░░░░░░░░░░░░
 
 [![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=erikoding&theme=tokyo-night&hide_border=true)](https://github.com/erikoding)
 
