@@ -28,26 +28,25 @@ Tenho experiência prática como projetista de instalações elétricas prediais
 
 ### Exploração de Linguagens
 
-**C#** (35%)
-█████████░░░░░░░░░░░░░░░░
+**C#**         (35%)
 
-**Python** (25%)
-██████░░░░░░░░░░░░░░░░░░░
+
+**Python**     (25%)
+
 
 **HTML / CSS** (15%)
-████░░░░░░░░░░░░░░░░░░░░░
+
 
 **JavaScript** (12%)
-███░░░░░░░░░░░░░░░░░░░░░░
 
-**C++** (7%)
-██░░░░░░░░░░░░░░░░░░░░░░░
 
-**Java** (5%)
-█░░░░░░░░░░░░░░░░░░░░░░░░
+**C++**        (7%)
+
+
+**Java**       (5%)
+
 
 **Inno Setup** (1%)
-▏░░░░░░░░░░░░░░░░░░░░░░░░
 
 [![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=erikoding&theme=tokyo-night&hide_border=true)](https://github.com/erikoding)
 
