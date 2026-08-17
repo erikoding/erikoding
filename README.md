@@ -48,10 +48,6 @@ Tenho experiência prática como projetista de instalações elétricas prediais
 
 **Inno Setup** (1%)
 
-[![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=erikoding&theme=tokyo-night&hide_border=true)](https://github.com/erikoding)
-
-[![Streak do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=erikoding&theme=tokyonight&hide_border=true)](https://github.com/erikoding)
-
 ### Contato e Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eriko-luiz-prates-81920b353/)
